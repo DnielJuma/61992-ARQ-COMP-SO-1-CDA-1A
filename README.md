@@ -1,10 +1,6 @@
 # 61992-ARQ-COMP-SO-1-CDA-1A
-Repo for the course
+Danie Juma
 
-## subtitulo
+## Bitacora reflexiva
 
-Hola *mundo*
-
-Chao **mundo**
-
-![alt text](image.png)
+![alt text](image-1.png)
